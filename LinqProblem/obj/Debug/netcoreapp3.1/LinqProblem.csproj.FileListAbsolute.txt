@@ -1,0 +1,11 @@
+D:\DLS-RFP-278\Project\LinqProblem\LinqProblem\bin\Debug\netcoreapp3.1\LinqProblem.exe
+D:\DLS-RFP-278\Project\LinqProblem\LinqProblem\bin\Debug\netcoreapp3.1\LinqProblem.deps.json
+D:\DLS-RFP-278\Project\LinqProblem\LinqProblem\bin\Debug\netcoreapp3.1\LinqProblem.runtimeconfig.json
+D:\DLS-RFP-278\Project\LinqProblem\LinqProblem\bin\Debug\netcoreapp3.1\LinqProblem.runtimeconfig.dev.json
+D:\DLS-RFP-278\Project\LinqProblem\LinqProblem\bin\Debug\netcoreapp3.1\LinqProblem.dll
+D:\DLS-RFP-278\Project\LinqProblem\LinqProblem\bin\Debug\netcoreapp3.1\LinqProblem.pdb
+D:\DLS-RFP-278\Project\LinqProblem\LinqProblem\obj\Debug\netcoreapp3.1\LinqProblem.csprojAssemblyReference.cache
+D:\DLS-RFP-278\Project\LinqProblem\LinqProblem\obj\Debug\netcoreapp3.1\LinqProblem.AssemblyInfoInputs.cache
+D:\DLS-RFP-278\Project\LinqProblem\LinqProblem\obj\Debug\netcoreapp3.1\LinqProblem.AssemblyInfo.cs
+D:\DLS-RFP-278\Project\LinqProblem\LinqProblem\obj\Debug\netcoreapp3.1\LinqProblem.dll
+D:\DLS-RFP-278\Project\LinqProblem\LinqProblem\obj\Debug\netcoreapp3.1\LinqProblem.pdb
