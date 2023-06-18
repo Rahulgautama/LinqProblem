@@ -25,5 +25,14 @@ namespace LinqProblem
             }
 
         }
+        public void RetriveCountOfRecords(List<ProductReview> listProductReviews)
+        {
+            var recordsData = listProductReviews.GroupBy(x => x.ProductId).Select(x => new { ProductID = x.Key, Count = x.Count() });
+
+            foreach (var list in recordsData)
+            {
+                Console.WriteLine(list.ProductID + "------" + list.Count);
+            }
+        }
     }
 }
